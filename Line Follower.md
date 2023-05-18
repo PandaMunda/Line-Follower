@@ -30,21 +30,23 @@ On the chassis for the bot put all components for working something like this:
 
 After that the connections can be done as shown in the schematics below:
 
-<img src="https://github.com/PandaMunda/Fall-Avoider-Using-Arduino/assets/128840537/0b4be86b-4799-4d42-90b3-47a11285d5ca" width="800" height="600" />
+<img src="https://github.com/PandaMunda/Line-Follower/assets/128840537/f673fe63-57e7-4670-9b1c-b89ec73370d1" width="800" height="600" />
 
 Now for the coding part i will provide the code below for the functioning:
 
 you can download the code using the given link and put it in your arduino:
 
-
+[Line Follower.docx](https://github.com/PandaMunda/Line-Follower/files/11509186/Line.Follower.docx)
 
 Congratulations you have built your own obstacle avoider bot using arduino uno.
 
 After attatching the battery mine was working completely fine as you can see in the video:
 
 
+https://github.com/PandaMunda/Line-Follower/assets/128840537/737888c8-4c7d-4ff1-9966-3aae638565cf
 
 
+I had to push the bot because the DC motors i used had very less torque.
 
 If you have any complications with the same you can try asking it in the queries section i will be there to help asap.
 
